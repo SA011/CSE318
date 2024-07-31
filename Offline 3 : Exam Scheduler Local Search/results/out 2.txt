@@ -1,0 +1,221 @@
+
+
+#####
+Largest Degree
+#####
+
+=============================================
+Scheduling car-f-92
+
+Time Slots: 32
+Penalty(After Constructive Heruristic): 9.47565
+Penalty(After Kempechain Interchange): 5.01102
+Penalty(After PairSwap): 4.91340
+
+=============================================
+Scheduling car-s-91
+
+Time Slots: 35
+Penalty(After Constructive Heruristic): 10.75261
+Penalty(After Kempechain Interchange): 6.20886
+Penalty(After PairSwap): 6.12047
+
+=============================================
+Scheduling kfu-s-93
+
+Time Slots: 20
+Penalty(After Constructive Heruristic): 36.73565
+Penalty(After Kempechain Interchange): 15.46457
+Penalty(After PairSwap): 14.64928
+
+=============================================
+Scheduling tre-s-92
+
+Time Slots: 24
+Penalty(After Constructive Heruristic): 14.22500
+Penalty(After Kempechain Interchange): 8.46720
+Penalty(After PairSwap): 8.24725
+
+=============================================
+Scheduling yor-f-83
+
+Time Slots: 23
+Penalty(After Constructive Heruristic): 50.09989
+Penalty(After Kempechain Interchange): 31.96493
+Penalty(After PairSwap): 31.71413
+
+#####
+Saturation Degree
+#####
+
+=============================================
+Scheduling car-f-92
+
+Time Slots: 32
+Penalty(After Constructive Heruristic): 8.90542
+Penalty(After Kempechain Interchange): 5.06537
+Penalty(After PairSwap): 4.93811
+
+=============================================
+Scheduling car-s-91
+
+Time Slots: 33
+Penalty(After Constructive Heruristic): 11.74003
+Penalty(After Kempechain Interchange): 6.61826
+Penalty(After PairSwap): 6.50547
+
+=============================================
+Scheduling kfu-s-93
+
+Time Slots: 20
+Penalty(After Constructive Heruristic): 36.81249
+Penalty(After Kempechain Interchange): 16.47766
+Penalty(After PairSwap): 15.34754
+
+=============================================
+Scheduling tre-s-92
+
+Time Slots: 23
+Penalty(After Constructive Heruristic): 13.89197
+Penalty(After Kempechain Interchange): 9.30849
+Penalty(After PairSwap): 9.04404
+
+=============================================
+Scheduling yor-f-83
+
+Time Slots: 22
+Penalty(After Constructive Heruristic): 49.33900
+Penalty(After Kempechain Interchange): 33.65994
+Penalty(After PairSwap): 33.02232
+
+#####
+Largest Enrollment
+#####
+
+=============================================
+Scheduling car-f-92
+
+Time Slots: 34
+Penalty(After Constructive Heruristic): 9.65894
+Penalty(After Kempechain Interchange): 4.72241
+Penalty(After PairSwap): 4.59097
+
+=============================================
+Scheduling car-s-91
+
+Time Slots: 36
+Penalty(After Constructive Heruristic): 12.04366
+Penalty(After Kempechain Interchange): 5.82440
+Penalty(After PairSwap): 5.69459
+
+=============================================
+Scheduling kfu-s-93
+
+Time Slots: 21
+Penalty(After Constructive Heruristic): 40.39073
+Penalty(After Kempechain Interchange): 14.24079
+Penalty(After PairSwap): 13.37502
+
+=============================================
+Scheduling tre-s-92
+
+Time Slots: 22
+Penalty(After Constructive Heruristic): 14.51950
+Penalty(After Kempechain Interchange): 9.76330
+Penalty(After PairSwap): 9.62592
+
+=============================================
+Scheduling yor-f-83
+
+Time Slots: 24
+Penalty(After Constructive Heruristic): 48.99044
+Penalty(After Kempechain Interchange): 30.23592
+Penalty(After PairSwap): 29.85654
+
+#####
+Random Ordering
+#####
+
+=============================================
+Scheduling car-f-92
+
+Time Slots: 46
+Penalty(After Constructive Heruristic): 6.94473
+Penalty(After Kempechain Interchange): 3.04946
+Penalty(After PairSwap): 2.85075
+
+=============================================
+Scheduling car-s-91
+
+Time Slots: 47
+Penalty(After Constructive Heruristic): 8.69684
+Penalty(After Kempechain Interchange): 4.20366
+Penalty(After PairSwap): 4.00201
+
+=============================================
+Scheduling kfu-s-93
+
+Time Slots: 26
+Penalty(After Constructive Heruristic): 30.25724
+Penalty(After Kempechain Interchange): 10.03926
+Penalty(After PairSwap): 8.99271
+
+=============================================
+Scheduling tre-s-92
+
+Time Slots: 30
+Penalty(After Constructive Heruristic): 11.93991
+Penalty(After Kempechain Interchange): 6.33899
+Penalty(After PairSwap): 6.06972
+
+=============================================
+Scheduling yor-f-83
+
+Time Slots: 27
+Penalty(After Constructive Heruristic): 42.95537
+Penalty(After Kempechain Interchange): 25.91073
+Penalty(After PairSwap): 25.34113
+
+#####
+Saturation Degree
+#####
+
+=============================================
+Scheduling car-f-92
+
+Time Slots: 32
+Penalty(After Constructive Heruristic): 5.60921
+Penalty(After Kempechain Interchange): 3.24361
+Penalty(After PairSwap): 3.19474
+
+=============================================
+Scheduling car-s-91
+
+Time Slots: 33
+Penalty(After Constructive Heruristic): 7.28603
+Penalty(After Kempechain Interchange): 4.32839
+Penalty(After PairSwap): 4.25312
+
+=============================================
+Scheduling kfu-s-93
+
+Time Slots: 20
+Penalty(After Constructive Heruristic): 20.87156
+Penalty(After Kempechain Interchange): 10.08974
+Penalty(After PairSwap): 9.77416
+
+=============================================
+Scheduling tre-s-92
+
+Time Slots: 23
+Penalty(After Constructive Heruristic): 8.57385
+Penalty(After Kempechain Interchange): 6.13853
+Penalty(After PairSwap): 5.99679
+
+=============================================
+Scheduling yor-f-83
+
+Time Slots: 22
+Penalty(After Constructive Heruristic): 28.91392
+Penalty(After Kempechain Interchange): 21.90648
+Penalty(After PairSwap): 21.89160
